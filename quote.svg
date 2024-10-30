@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/steven/www/wordpress/wp-content/plugins/clickquote"
+   sodipodi:docname="quote.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3163">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="0"
+         id="stop3165" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:0;"
+         offset="1"
+         id="stop3167" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3163"
+       id="linearGradient3169"
+       x1="108.08632"
+       y1="473.0397"
+       x2="230.31477"
+       y2="473.0397"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1126"
+     inkscape:window-height="706"
+     inkscape:window-x="131"
+     inkscape:window-y="49" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8134"
+       width="180"
+       height="180"
+       x="366.68518"
+       y="455.86456"
+       inkscape:export-filename="/home/steven/www/wordpress/wp-content/plugins/clickquote/quote2.png"
+       inkscape:export-xdpi="6"
+       inkscape:export-ydpi="6" />
+    <g
+       id="g5195"
+       transform="matrix(1.0376037,0,0,1.0227138,154.02592,18.05405)"
+       style="fill:#c1c1c1;fill-opacity:1"
+       inkscape:export-filename="/home/steven/www/wordpress/wp-content/plugins/clickquote/quote2.png"
+       inkscape:export-xdpi="6"
+       inkscape:export-ydpi="6">
+      <path
+         transform="matrix(0.9992396,-3.8990034e-2,3.8990034e-2,0.9992396,-19.865076,11.912169)"
+         d="M 362.64475 503.34427 A 67.175148 54.043159 0 1 1  228.29446,503.34427 A 67.175148 54.043159 0 1 1  362.64475 503.34427 z"
+         sodipodi:ry="54.043159"
+         sodipodi:rx="67.175148"
+         sodipodi:cy="503.34427"
+         sodipodi:cx="295.4696"
+         id="path5197"
+         style="opacity:1;fill:#c1c1c1;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         id="path5199"
+         d="M 336.16748,543.74172 C 267.73556,528.23233 263.76407,478.64687 267.73556,528.23233 C 271.70704,577.81779 208.81714,613.51725 336.16748,543.74172 z "
+         style="fill:#c1c1c1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5191"
+       style="opacity:1;fill:#dbdbdb;fill-opacity:1"
+       transform="translate(163.64471,25.253813)"
+       inkscape:export-filename="/home/steven/www/wordpress/wp-content/plugins/clickquote/quote2.png"
+       inkscape:export-xdpi="6"
+       inkscape:export-ydpi="6">
+      <path
+         transform="matrix(0.9992396,-3.8990034e-2,3.8990034e-2,0.9992396,-19.865076,11.912169)"
+         d="M 362.64475 503.34427 A 67.175148 54.043159 0 1 1  228.29446,503.34427 A 67.175148 54.043159 0 1 1  362.64475 503.34427 z"
+         sodipodi:ry="54.043159"
+         sodipodi:rx="67.175148"
+         sodipodi:cy="503.34427"
+         sodipodi:cx="295.4696"
+         id="path2160"
+         style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         id="path4202"
+         d="M 336.16748,543.74172 C 267.73556,528.23233 263.76407,478.64687 267.73556,528.23233 C 271.70704,577.81779 208.81714,613.51725 336.16748,543.74172 z "
+         style="fill:#dbdbdb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient3169);fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8116"
+       sodipodi:cx="169.20055"
+       sodipodi:cy="473.0397"
+       sodipodi:rx="61.114227"
+       sodipodi:ry="45.961941"
+       d="M 230.31477 473.0397 A 61.114227 45.961941 0 1 1  108.08632,473.0397 A 61.114227 45.961941 0 1 1  230.31477 473.0397 z"
+       transform="matrix(0.6344573,-4.49031e-2,4.2901965e-2,0.4932138,317.32735,282.68296)"
+       inkscape:export-filename="/home/steven/www/wordpress/wp-content/plugins/clickquote/quote2.png"
+       inkscape:export-xdpi="6"
+       inkscape:export-ydpi="6" />
+  </g>
+</svg>

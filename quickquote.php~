@@ -1,0 +1,28 @@
+<?php
+/*
+Plugin Name: Quickquote
+Plugin URI: http://www.romej.com
+Description: Make it easy to quote people in your comments.  When hovering over a paragraph a small link will appear that allows you to quote the paragraph with a single click.
+Version: 1.0
+Author: Steven Romej
+Author URI: http://www.romej.com
+*/
+
+
+function filter_quickquote($content) {
+    
+    return "WOOOT!" . $content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+?>
